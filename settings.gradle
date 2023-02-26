@@ -1,1 +1,14 @@
 include ':app'
+//pluginManagement(
+//        repositories{
+//            gradlePluginPortal()
+//            google()
+//            mavenCentral()
+//        }
+//)
+//dependencyResolutionManagement {
+//    repositoriesMode.set(Repos)
+//}
+//maven {
+//    url "https://repo.eclipse.org/content/repositories/paho-snapshots/"
+//}

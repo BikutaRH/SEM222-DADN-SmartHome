@@ -165,7 +165,7 @@
                                     android:layout_height="wrap_content"
                                     android:textColor="@color/colorPrimary"
                                     android:textSize="100dp"
-                                    android:text="00"
+                                    android:text="30"
                                     android:fontFamily="@font/raleway"
                                     android:layout_gravity="center"
                                     />
@@ -200,16 +200,15 @@
                                         android:orientation="horizontal"
                                         >
 
-                                    <TextView
-                                        android:id="@+id/fahren"
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="wrap_content"
-                                        android:textColor="@color/colorPrimary"
-                                        android:textSize="20dp"
-                                        android:text="00"
-                                        android:fontFamily="@font/raleway"
-                                        android:layout_marginTop="7dp"
-                                        />
+                                        <TextView
+                                            android:id="@+id/fahren"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginTop="7dp"
+                                            android:fontFamily="@font/raleway"
+                                            android:text="00"
+                                            android:textColor="@color/colorPrimary"
+                                            android:textSize="20dp" />
 
                                     <TextView
                                         android:layout_width="wrap_content"
@@ -268,7 +267,7 @@
                                                 android:layout_width="wrap_content"
                                                 android:layout_height="wrap_content"
                                                 android:textColor="@color/colorPrimary"
-                                                android:text="00%"
+                                                android:text="60%"
                                                 android:fontFamily="@font/raleway"
                                                 android:textSize="18dp"
                                                 android:layout_marginLeft="10dp"
