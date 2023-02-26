@@ -40,7 +40,7 @@ import jp.hamcheesedev.outlinedtextview.CompatOutlinedTextView;
 import me.itangqi.waveloadingview.WaveLoadingView;
 
 public class MainActivity extends AppCompatActivity {
-
+//    int a = 0;
     ListView listView;
     int int_value = 0;
     String rev_value = null;
